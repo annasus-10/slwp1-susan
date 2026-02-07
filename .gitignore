@@ -1,0 +1,25 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data / outputs
+data/
+datasets/
+outputs/
+results/
+*.ply
+*.pcd
+*.bag
+*.mp4
+*.avi
+
+# Secrets / credentials
+.env
+*.key
+*.pem
+
